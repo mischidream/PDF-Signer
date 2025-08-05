@@ -1,0 +1,26 @@
+# --- Maven ---
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+log.txt
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+out/
+
+# --- Logs and temp files ---
+*.log
+*.tmp
+*.bak
+*.swp
+
+# --- Java build ---
+*.class
+*.jar
+*.war
+*.ear
+
+0_Keys/*
+
